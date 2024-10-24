@@ -1,0 +1,57 @@
+name: andre.collins
+description: architecture
+version: 9.6.9.941
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: andrecollins
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 22:03:14'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 22:03:14'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T22:03:14.068966Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '669294975'
+  createdAt: '2024-10-24T22:03:14.068966Z'
+  type: plibMaven
+projectDependencies:
+  '272':
+    projectUID: 272
+    projectName: tena.balistreri
+    repositoryPath: gitUri=http://gitserver:3000/dev_JJXzjP7X_team_385/dev_JJXzjP7X_project_272.git&subPath=
+    version: tena.balistreri/0.55.812
+    isDefault: false
+    author: null
+    createdAt: '2024-10-24 22:03:12'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
